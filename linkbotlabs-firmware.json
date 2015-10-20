@@ -1,0 +1,17 @@
+{
+	"firmware-md5sums": {
+        "4.4.10": {
+            "hex": "bd129ff4466d87d68adbe3ffdba93298",
+            "eeprom": "680a449c8683d0cef0a81d1d526d1036"
+        },
+        "4.4.9": {
+            "hex": "d3d79c0d1bb7d838cf5af61a347e0ae0",
+            "eeprom": "cd40b706a8d88f0b650cd8583142d2a7"
+        }
+	},
+	"linkbotlabs-firmware": {
+		"1.0.5": [ "4.4.10" ],
+		"1.0.4": [ "4.4.10" ],
+		"1.0.3": [ "4.4.10" ]
+	}
+}

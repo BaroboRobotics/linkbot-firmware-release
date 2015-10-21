@@ -1,5 +1,9 @@
 {
 	"firmware-md5sums": {
+        "4.4.11": {
+            "hex": "062a499ec07be4a004867d600d75deef",
+            "eeprom": "f26fc95851e4d95a7829360ff006c95a"
+        },
         "4.4.10": {
             "hex": "bd129ff4466d87d68adbe3ffdba93298",
             "eeprom": "680a449c8683d0cef0a81d1d526d1036"

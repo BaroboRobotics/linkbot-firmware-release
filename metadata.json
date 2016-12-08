@@ -1,27 +1,30 @@
 {
+
     "firmware-md5sums": {
         "4.4.13": {
-            "hex": "2cf3e8b83428c48ad7ff492ba9cdd1e5",
-            "eeprom": "20468fa721c1824f84772369bbed168f"
+            "hex": "4699c09d7da24cf05180aef908abcd07",
+            "eeprom": "6955d797d57997336b7af66c19d5539b"
         },
         "4.4.12": {
-            "hex": "ddf23cd8855d8ea5b4e8526e915bcccb",
+            "hex": "812be073c769160815542efb8e30f74a",
             "eeprom": "3520ea90e778fcf7263ea5e674ff8273"
         },
         "4.4.11": {
-            "hex": "062a499ec07be4a004867d600d75deef",
+            "hex": "82284850f62caf4a77b4f2cdfd5bd9c5",
             "eeprom": "f26fc95851e4d95a7829360ff006c95a"
         },
         "4.4.10": {
-            "hex": "bd129ff4466d87d68adbe3ffdba93298",
+            "hex": "36a0fd4eb04f8c9d8627af95f29a067f",
             "eeprom": "680a449c8683d0cef0a81d1d526d1036"
         },
         "4.4.9": {
-            "hex": "d3d79c0d1bb7d838cf5af61a347e0ae0",
+            "hex": "92b14b948fef92ca18b2311225ebaeeb",
             "eeprom": "cd40b706a8d88f0b650cd8583142d2a7"
         }
     },
     "linkbotlabs-firmware": {
+        "1.1.1": [ "4.4.13" ],
+        "1.1.0": [ "4.4.13" ],
         "1.0.10": [ "4.4.13" ],
         "1.0.9": [ "4.4.13" ],
         "1.0.8": [ "4.4.13" ],

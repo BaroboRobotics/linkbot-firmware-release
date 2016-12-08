@@ -1,3 +1,2 @@
-* text=auto
-*.hex binary
-*.eeprom binary
+# The firmware needs LF line terminators to preserve their MD5 sums
+* eol=lf
